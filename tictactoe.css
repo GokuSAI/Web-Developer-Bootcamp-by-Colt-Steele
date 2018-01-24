@@ -1,0 +1,29 @@
+
+#right{
+  width: 100px;
+  height:100px;
+  border-right: 1px solid black;
+
+  border-bottom: 1px solid black;
+}
+
+#end{
+  width: 100px;
+  height:100px;
+
+  border-bottom: 1px solid black;
+}
+#last{
+  width: 100px;
+  height:100px;
+
+  border-right: 1px solid black;
+}
+table{
+  margin: auto;
+
+}
+#heading{
+  text-align: center;
+
+}
