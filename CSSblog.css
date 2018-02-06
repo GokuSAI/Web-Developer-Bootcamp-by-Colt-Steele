@@ -1,0 +1,21 @@
+body{
+  margin:40px 150px 30px 150px;
+  border: 17px solid #bdc3c7;
+  padding: 30px;
+}
+#date{
+  padding: 3px;
+
+  color: blue;
+  letter-spacing: 7px;
+}
+.first{
+  font-family: Montserrat;
+  border-left: 9px solid #bdc3c7;
+  padding-left: 5px;
+}
+.last{
+  font-family: Montserrat;
+  border-bottom: 3px solid #bdc3c7;
+  padding-bottom: 5px;
+}
